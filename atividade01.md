@@ -116,7 +116,7 @@
 * Estimativa: 1h
 * Início previsto: 09/05/2021
 * Término Previsto: 09/05/2021
-* Recurso: Conhecimento JavaScript
+* Recurso: Cleiber
 
 
 
@@ -125,7 +125,7 @@
 * Estimativa: 1h
 * Início previsto: 09/05/2021
 * Término Previsto: 09/05/2021
-* Recurso: Conhecimento JavaScript
+* Recurso: Cleiber
 
 
 
@@ -138,14 +138,14 @@
 * Estimativa: 1h
 * Início previsto: 09/05/2021
 * Término Previsto: 09/05/2021
-* Recurso: Conhecimento JavaScript
+* Recurso: Cleiber
 
 ###### 2 - Arquivo SQL com os scripts de inserção de dados, respeitando as restrições de chaves estrangeiras
 
 * Estimativa: 1h
 * Início previsto: 09/05/2021
 * Término Previsto: 09/05/2021
-* Recurso: Conhecimento JavaScript
+* Recurso: Cleiber
 
 
 
@@ -158,35 +158,35 @@
 * Estimativa: 1h
 * Início previsto: 09/05/2021
 * Término Previsto: 09/05/2021
-* Recurso: Conhecimento JavaScript
+* Recurso: Cleiber
 
 ###### 2 - Uma consulta contemplando a junção entre 2 tabelas.
 
 * Estimativa: 1h
 * Início previsto: 09/05/2021
 * Término Previsto: 09/05/2021
-* Recurso: Conhecimento JavaScript
+* Recurso: Cleiber
 
 ###### 3 - Uma consulta contemplando a junção entre 3 tabelas.
 
 * Estimativa: 1h
 * Início previsto: 09/05/2021
 * Término Previsto: 09/05/2021
-* Recurso: Conhecimento JavaScript
+* Recurso: Cleiber
 
 ###### 4 - Uma consulta contemplando a junção entre 2 tabelas + uma operação de totalização e agrupamento.
 
 * Estimativa: 1h
 * Início previsto: 09/05/2021
 * Término Previsto: 09/05/2021
-* Recurso: Conhecimento JavaScript
+* Recurso: Cleiber
 
 ###### 5 - Uma consulta contemplando a junção entre 3 ou mais tabelas + uma operação de totalização e agrupamento.
 
 * Estimativa: 1h
 * Início previsto: 09/05/2021
 * Término Previsto: 09/05/2021
-* Recurso: Conhecimento JavaScript
+* Recurso: Cleiber
 
 
 
